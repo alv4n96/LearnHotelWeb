@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace LearnHotelWeb.Models
 {
-    public class HotelModel
+    public class Hotel
     {
         [Key]
         public int HotelId { get; set; }
